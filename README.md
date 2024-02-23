@@ -1,5 +1,6 @@
-![240_F_97519788_ZfpM1mmTUrCdnfiig5l1IUbwQREnW9Fv-removebg-preview](https://github.com/mukesh-32/CompassApp/assets/156600520/5a80a13c-c61d-4e6e-ba1f-b6bb1aaedc91)
+
 ![Magnetometer App](https://github.com/mukesh-32/CompassApp/assets/156600520/5a80a13c-c61d-4e6e-ba1f-b6bb1aaedc91)
+![compass](https://github.com/mukesh-32/CompassApp/assets/156600520/e7213140-54d8-451d-a097-f7b951c012a5)
 
 **Project Description: Magnetometer-based Compass App**
 
